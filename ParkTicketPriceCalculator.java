@@ -1,4 +1,4 @@
-public class AmusementParkTicketPriceCalculator {
+public class ParkTicketPriceCalculator {
     public static double calculateTicketPrice(int age, boolean hasStudentId, boolean speedPass, boolean foodPass) {
         double price = 0.0;
  
